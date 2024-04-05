@@ -1,5 +1,6 @@
 
 import './App.css'
+import UpdateArrayOfObjects from './UpdateArrayOfObjects';
 import UpdateArrays from './UpdateArrays'
 import UpdateObjects from './UpdateObjects'
 
@@ -8,6 +9,7 @@ function App() {
     <div>
       <UpdateObjects />
       <UpdateArrays />
+      <UpdateArrayOfObjects />
     </div>
   );
   
